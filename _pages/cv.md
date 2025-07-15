@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV via: [Mingshuo Wang's Resume](../assets/resume_Mingshuo_W.pdf)
+For a detailed overview of my academic and professional background, please see  
+👉 [**Mingshuo Wang's Resume (PDF)**](../assets/resume_Mingshuo_W.pdf)
+
