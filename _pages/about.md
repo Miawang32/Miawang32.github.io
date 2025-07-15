@@ -43,7 +43,7 @@ I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double ma
 
 ## 💼 Professional Experience
 
-### ☀️ Solar Project Manager — [KEM Power LLC](https://www.kem-power.com/) / [KEM Energy Inc](http://www.kemgroups.com/).  
+### ☀️ Solar Project Manager — [KEM Power LLC](https://www.kem-power.com/).  
 **Jun 2024 – May 2025 | Houston, TX**  
 - Led solar project delivery for **Sungrow**, managing **50+ stakeholders** across design and logistics.  
 - Acted as technical–business bridge, aligning execution with regulatory and client needs.
