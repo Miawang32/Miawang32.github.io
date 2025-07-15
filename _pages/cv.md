@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here: [Mingshuo Wang's Resume](assets/resume_Mingshuo_W.pdf)
+You can download my CV here: [Mingshuo Wang's Resume](./assets/resume_Mingshuo_W.pdf)
