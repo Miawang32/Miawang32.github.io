@@ -9,74 +9,74 @@ redirect_from:
 
 I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double majoring in Petroleum Engineering and Engineering Management. My background in chemical engineering and experience in subsurface modeling, clean energy research, and oilfield analysis allow me to bridge technical expertise with practical applications. Currently involved in an ARPA-E project at GEM-Lab, focusing on hydrogen recovery and reservoir simulation using COMSOL. Previously interned at KEM Power, KEM Energy, and SINOPEC, with hands-on experience in project management and chemical analysis. Proficient in COMSOL, MATLAB, Python, and CAD.
 
+---
 
-# Mingshuo (Mia) Wang
+## 🎓 Education
 
-- **Phone:** (+1) 213-595-9270  
-- **Email:** [mswang32@outlook.com](mailto:mswang32@outlook.com)  
-- **LinkedIn:** [Mingshuo Wang](https://www.linkedin.com/in/mingshuo-wang-83a80125b)
+**University of Southern California** *(Expected May 2025)*  
+- M.S. Petroleum Engineering  
+- M.S. Engineering Management  
+
+**Hunan University of Science and Technology** *(Jul 2022)*  
+- B.S. Chemical Engineering  
 
 ---
 
-## Education
+## 🧪 Research & Projects
 
-**University of Southern California** (May 2025)  
-- M.S. Petroleum Engineering
-- M.S. Engineering Management
+### 💡 Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)  
+**Sep – Dec 2024**  
+- Developed a **2D COMSOL porous model** to simulate **olivine serpentinization** and assess H₂ generation kinetics.  
+- Investigated multiscale coupling in **transport–mechanics–reaction systems** under reservoir conditions.
 
-**Hunan University of Science and Technology** (July 2022)  
-- B.S. Chemical Engineering
+### 🌀 CO₂ Injection Simulation and Optimization  
+**Jan – May 2023**  
+- Built a **MATLAB-based simulator** for CO₂ geologic storage with risk-informed decision analysis.  
+- Reduced predicted **leakage risk below 0.1%**, enhancing safe reservoir design.
 
----
-
-## Project Experience
-
-### Graduate Research Assistant, USC GEM-Lab (Funded by ARPA-E)
-**Sep – Dec 2024**
-- Conducted multiscale characterization, transport, and mechanics research for enhanced H₂ recovery and reservoir management.
-- Built 2D cylindrical porous COMSOL model simulating olivine serpentinization reactions, analyzing kinetics and permeability.
-
-### Research Assistant, Simulation and Optimization of CO₂ Injection
-**Jan – May 2023**
-- Developed MATLAB simulation for geologic CO₂ storage, incorporating uncertainty-aware risk assessment and optimization.
-- Optimized injection strategies reducing leakage rates to below 0.1%, addressing fracturing and leakage risks.
-
-### CAD Designer, National Undergraduate Chemical Engineering Design Competition
-**Apr – Aug 2020**
-- Designed AutoCAD-based pipeline workshops and plant layouts for a C5 alkane-based chemical plant.
-- Achieved National Second Prize for technical excellence and practical feasibility.
+### 🏭 CAD Engineer — National ChemE Design Competition  
+**Apr – Aug 2020**  
+- Designed **AutoCAD** workshop layouts for a **C5 alkane** processing plant.  
+- Won **National Second Prize** for feasibility and design quality.
 
 ---
 
-## Work Experience
+## 💼 Professional Experience
 
-### Solar Project Manager, KEM Power LLC, KEM Energy Inc.
-**Jun 2024 – May 2025 | Houston, TX, US**
-- Managed technical solar projects for client Sungrow, coordinating cross-functional teams (~50 members).
-- Served as primary liaison aligning project execution with client expectations.
+### ☀️ Solar Project Manager — KEM Power LLC / KEM Energy Inc.  
+**Jun 2024 – May 2025 | Houston, TX**  
+- Led solar project delivery for **Sungrow**, managing **50+ stakeholders** across design and logistics.  
+- Acted as technical–business bridge, aligning execution with regulatory and client needs.
 
-### Oil & Gas Sales & Marketing Intern, KEM Power LLC
-**Jun – Sep 2023 | Houston, TX, US**
-- Consulted with oil companies, analyzing oilfield value alignment with bidding requirements.
-- Managed technology supporting cost-efficient development of over 1,000 wells across the U.S.
+### 🛢️ Oil & Gas Sales Intern — KEM Power LLC  
+**Jun – Sep 2023 | Houston, TX**  
+- Conducted **oilfield asset evaluation** and supported technology strategy for **1,000+ wells**.  
+- Collaborated with bidding teams to ensure economic feasibility.
 
-### Chemical Engineering Intern, Champion Asia Group
-**Jun – Aug 2021 | Ganzhou, China**
-- Designed efficient sewage treatment plans, achieving monthly cost savings of ~50,000 RMB.
-
-### Chemical Engineering Intern, Hunan Lichen Industry Co., Ltd.
-**Oct – Dec 2020 | Changsha, China**
-- Mastered detergent powder production processes, including solution prep, spray drying, refinement, and quality control.
-- Conducted quality tests, analyzed data, and reported daily to supervisors.
-
-### Chemical Engineering Intern, SINOPEC
-**Oct – Dec 2019 | Yueyang, China**
-- Monitored and analyzed production processes in caustic soda workshops, including ion-exchange membrane technology.
+### 🌿 Chemical Engineering Internships  
+- **Champion Asia Group**, China *(Jun – Aug 2021)*: Designed **wastewater treatment** solutions, saving ¥50,000/month.  
+- **Hunan Lichen Industry**, China *(Oct – Dec 2020)*: Managed **detergent production line** and QA.  
+- **SINOPEC**, China *(Oct – Dec 2019)*: Operated in **caustic soda membrane workshop**, handling live process monitoring.
 
 ---
 
-## Skills
+## 🛠 Skills
 
-- **Software:** COMSOL, AutoCAD, MATLAB, Python, R Studio, Geolog, MS Office, Aspen Plus
-- **Technical Skills:** Grading, water quality assessment, multitasking, time management, and strong communication in team-based and client-facing roles.
+**Modeling & Simulation:**  
+`COMSOL`, `MATLAB`, `Aspen Plus`, `Geolog`, `Python`  
+
+**Engineering Tools:**  
+`AutoCAD`, `R Studio`, `MS Office`, `QA/QC`  
+
+**Soft Skills:**  
+Project management • Technical reporting • Cross-functional collaboration • Time-sensitive execution • Bilingual (Mandarin, English)  
+
+---
+
+## 🔍 Interests
+
+- Clean energy & hydrogen technologies  
+- Subsurface flow modeling  
+- Simulation-aided engineering design  
+- Global energy policy & sustainability  
 
