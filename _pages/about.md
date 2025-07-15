@@ -24,7 +24,7 @@ I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double ma
 
 ## 🧪 Research & Projects
 
-### 💡 Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)  
+### 💡 Graduate Research Assistant — [GEM-Lab @ USC](https://gemlab.usc.edu/) (ARPA-E Funded)  
 **Sep – Dec 2024**  
 - Developed a **2D COMSOL porous model** to simulate **olivine serpentinization** and assess H₂ generation kinetics.  
 - Investigated multiscale coupling in **transport–mechanics–reaction systems** under reservoir conditions.
@@ -43,12 +43,12 @@ I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double ma
 
 ## 💼 Professional Experience
 
-### ☀️ Solar Project Manager — KEM Power LLC / KEM Energy Inc.  
+### ☀️ Solar Project Manager — [KEM Power LLC](https://www.kem-power.com/) / [KEM Energy Inc](http://www.kemgroups.com/).  
 **Jun 2024 – May 2025 | Houston, TX**  
 - Led solar project delivery for **Sungrow**, managing **50+ stakeholders** across design and logistics.  
 - Acted as technical–business bridge, aligning execution with regulatory and client needs.
 
-### 🛢️ Oil & Gas Sales Intern — KEM Power LLC  
+### 🛢️ Oil & Gas Sales Intern — [KEM Power LLC](https://www.kem-power.com/)  
 **Jun – Sep 2023 | Houston, TX**  
 - Conducted **oilfield asset evaluation** and supported technology strategy for **1,000+ wells**.  
 - Collaborated with bidding teams to ensure economic feasibility.
