@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Mingshuo (Mia) Wang"
-title                    : "Mingshuo Wang"
+title                    : "Mingshuo (Mia) Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 URL                      : "https://miawang32.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "self-photo.png"
-  name             : "Mingshuo Wang"
+  name             : "Mingshuo (Mia) Wang"
   pronouns         : # example: "she/her"  
-  bio              : "mingshuo"
+  bio              :  "mingshuo@usc.edu"
   location         : "LA,CA,USA"
   employer         : "University of Southern California"
   URI              : "https://miawang32.github.io/"
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mingshuo-wang/"
+  linkedin         : "https://www.linkedin.com/in/mingshuo-wang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
