@@ -13,7 +13,7 @@ I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double ma
 
 ## 🎓 Education
 
-**University of Southern California** *(Expected May 2025)*  
+**University of Southern California** *(May 2025)*  
 - M.S. Petroleum Engineering  
 - M.S. Engineering Management  
 
