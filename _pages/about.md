@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a dual master's student in Petroleum Engineering and Engineering Management, with a strong foundation in chemical engineering and hands-on experience in energy systems modeling, geomechanics, and project operations. My research at USC’s GEM-Lab, supported by ARPA-E, focuses on simulating coupled geomechanical-chemical processes for hydrogen recovery and reservoir integrity—using COMSOL to analyze porosity, stress, and permeability changes during serpentinization.
+I recently graduated from the [University of Southern California](https://www.usc.edu/) with dual master’s degrees in Petroleum Engineering and Engineering Management. During my time at USC, I worked as a Research Assistant at the GEM-Lab, supported by ARPA-E, where I simulated coupled geomechanical-chemical processes for hydrogen recovery and reservoir integrity. Using COMSOL, I analyzed porosity, stress, and permeability changes during serpentinization—experience directly applicable to field-based geohazard analysis.
 
-In parallel, I’ve developed a [MATLAB-based simulation framework](https://github.com/Miawang32/GEOLOGIC_CO2_STORAGE) for CO₂ storage in porous media, integrating risk assessment, history matching, and injection optimization. My engineering background also includes national-level CAD design awards, renewable energy project coordination, and field experience across water treatment, QA, and gas processing with companies like KEM Energy, Champion Asia, and SINOPEC.
+In parallel, I developed a MATLAB-based simulation framework for CO₂ storage in porous media, integrating risk assessment, history matching, and injection optimization. My engineering background also includes national-level CAD design awards, renewable energy project coordination, and field experience across water treatment, QA, and gas processing with companies like KEM Energy, Champion Asia, and SINOPEC.
 
-With a blend of technical, analytical, and management skills, I’m passionate about applying multidisciplinary knowledge to real-world challenges in clean energy, carbon storage, and sustainable infrastructure.
+With a blend of technical, analytical, and management skills, I am passionate about applying multidisciplinary knowledge to real-world challenges in clean energy, carbon storage, and sustainable infrastructure.
 
 ---
 
