@@ -15,72 +15,55 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Southern California** *(May 2025)*  
 - M.S. Petroleum Engineering  
 - M.S. Engineering Management  
+- Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity)
 
 **Hunan University of Science and Technology** *(Jul 2022)*  
-- B.S. Chemical Engineering  
+- B.S. Chemical Engineering
 
 ---
 
-## 🧪 Research & Projects
+## Research & Projects
 
-### 💡 Graduate Research Assistant — [GEM-Lab @ USC](https://gemlab.usc.edu/) (ARPA-E Funded)  
-**Sep – Dec 2024**  
-- Developed a **2D COMSOL porous model** to simulate **olivine serpentinization** and assess H₂ generation kinetics.  
-- Investigated multiscale coupling in **transport–mechanics–reaction systems** under reservoir conditions.
+**Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)*  
+- Developed a 2D COMSOL porous media model to simulate olivine serpentinization and assess H₂ generation kinetics.  
+- Investigated multiscale coupling in transport–mechanics–reaction systems under reservoir conditions.  
+- Analyzed porosity, stress, and permeability evolution for reservoir integrity assessment.
 
-### 🌀 CO₂ Injection Simulation and Optimization  
-**Jan – May 2023**  
-- Built a **MATLAB-based simulator** for CO₂ geologic storage with risk-informed decision analysis.  
-- Reduced predicted **leakage risk below 0.1%**, enhancing safe reservoir design.
+**CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)*  
+- Built a MATLAB-based simulator for geologic CO₂ storage with risk-informed decision analysis.  
+- Integrated history matching and injection optimization; reduced predicted leakage risk to <0.1%.
 
-### 🏭 CAD Engineer — National ChemE Design Competition  
-**Apr – Aug 2020**  
-- Designed **AutoCAD** workshop layouts for a **C5 alkane** processing plant.  
-- Won **National Second Prize** for feasibility and design quality.
+**Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)*  
+- Implemented an LSTM pipeline with stacked recurrent layers and automated hyperparameter tuning.  
+- Achieved 0.06 RMSE on held-out data.
 
----
-
-## 💼 Professional Experience
-
-### ☀️ Solar Project Manager — [KEM Power LLC](https://www.kem-power.com/).  
-**Jun 2024 – May 2025 | Houston, TX**  
-- Led solar project delivery for **Sungrow**, managing **50+ stakeholders** across design and logistics.  
-- Acted as technical–business bridge, aligning execution with regulatory and client needs.
-
-### 🛢️ Oil & Gas Sales Intern — [KEM Power LLC](https://www.kem-power.com/)  
-**Jun – Sep 2023 | Houston, TX**  
-- Conducted **oilfield asset evaluation** and supported technology strategy for **1,000+ wells**.  
-- Collaborated with bidding teams to ensure economic feasibility.
-
-### 🌿 Chemical Engineering Internships  
-- **Champion Asia Group**, China *(Jun – Aug 2021)*: Designed **wastewater treatment** solutions, saving ¥50,000/month.  
-- **Hunan Lichen Industry**, China *(Oct – Dec 2020)*: Managed **detergent production line** and QA.  
-- **SINOPEC**, China *(Oct – Dec 2019)*: Operated in **caustic soda membrane workshop**, handling live process monitoring.
+**National ChemE Design Competition — CAD Engineer** *(Apr–Aug 2020)*  
+- Designed AutoCAD workshop layouts for a C5 alkane processing plant.  
+- Won National Second Prize for feasibility and design quality.
 
 ---
 
-## 🛠 Skills
+## Professional Experience
 
-**Modeling & Simulation:**  
-`COMSOL`, `MATLAB`, `Aspen Plus`, `Geolog`, `Python`  
+**KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)*  
+- Led solar project delivery for Sungrow, coordinating 50+ stakeholders across design, logistics, and compliance.  
+- Bridged technical and business teams to ensure on-time, regulation-aligned execution.
 
-**Engineering Tools:**  
-`AutoCAD`, `R Studio`, `MS Office`, `QA/QC`  
+**KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)*  
+- Performed oilfield asset evaluations for 1,000+ wells and supported technology strategy and bid economics.
 
-**Soft Skills:**  
-Project management • Technical reporting • Cross-functional collaboration • Time-sensitive execution • Bilingual (Mandarin, English)  
+**Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)*  
+- Designed wastewater treatment solutions, reducing OPEX by ~¥50,000/month.
+
+**Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)*  
+- Managed detergent production line operations and QA/QC processes.
+
+**SINOPEC — Chemical Engineering Intern** *(Oct–Dec 2019 · China)*  
+- Operated caustic soda membrane workshop; performed live process monitoring.
 
 ---
-
-## 🔍 Interests
-
-- Clean energy & hydrogen technologies  
-- Subsurface flow modeling  
-- Simulation-aided engineering design  
-- Global energy policy & sustainability  
-
