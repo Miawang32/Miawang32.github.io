@@ -14,15 +14,14 @@ In parallel, I developed a [MATLAB-based simulation framework](https://github.co
 
 With a blend of technical, analytical, and management skills, I am passionate about applying multidisciplinary knowledge to real-world challenges in clean energy, carbon storage, and sustainable infrastructure.
 
----
 
-###### Education
+**Education**
 - **University of Southern California** *(May 2025)* — M.S. Petroleum Engineering; M.S. Engineering Management; Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity).
 - **Hunan University of Science and Technology** *(Jul 2022)* — B.S. Chemical Engineering.
 
 ---
 
-###### Research & Projects
+**Research & Projects**
 - **Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)* — Built 2D COMSOL porous-media model for olivine serpentinization and H₂ kinetics; studied coupled transport–mechanics–reaction; analyzed porosity/stress/permeability evolution.
 - **CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)* — MATLAB simulator for geologic CO₂ storage with risk-informed decisions; integrated history matching & injection optimization; predicted leakage risk <0.1%.
 - **Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)* — LSTM pipeline with stacked RNNs & auto HPO; RMSE 0.06 on held-out data.
@@ -30,8 +29,8 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 ---
 
-###### Professional Experience
-- **KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)* — Led Sungrow project delivery; coordinated 50+ stakeholders across design/logistics/compliance; bridged tech & business for on-time, regulation-aligned execution.
+**Professional Experience**
+- **KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)* — Led Sungrow project delivery; coordinated 50+ stakeholders; bridged tech & business for on-time, regulation-aligned execution.
 - **KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)* — Evaluated 1,000+ wells; supported tech strategy and bid economics.
 - **Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)* — Designed wastewater treatment; cut OPEX by ~¥50,000/month.
 - **Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)* — Ran detergent production & QA/QC.
@@ -39,18 +38,17 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 ---
 
-###### Skills
-- **Modeling & Simulation:** COMSOL, MATLAB, Aspen Plus, Geolog, Python, R
-- **Engineering Tools:** AutoCAD, QA/QC, Data Analysis, MS Office
-- **Soft Skills:** Project management, technical writing, cross-functional collaboration
-- **Languages:** English, Mandarin
+**Skills**
+- Modeling & Simulation: COMSOL, MATLAB, Aspen Plus, Geolog, Python, R
+- Engineering Tools: AutoCAD, QA/QC, Data Analysis, MS Office
+- Soft Skills: Project management, technical writing, cross-functional collaboration
+- Languages: English, Mandarin
 
 ---
 
-###### Interests
+**Interests**
 - Clean energy & hydrogen technologies
 - Carbon capture and storage (CCUS)
 - Simulation-aided engineering design
-- Global energy transition & sustainabilityty  
-
+- Global energy transition & sustainability
 
