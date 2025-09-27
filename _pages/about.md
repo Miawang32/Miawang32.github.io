@@ -9,8 +9,8 @@ redirect_from:
 
 
 <span style="font-size:12px">
-
 I am Mingshuo (Mia) Wang, I recently graduated from the [University of Southern California](https://www.usc.edu/) with dual master’s degrees in Petroleum Engineering and Engineering Management. During my time at USC, I worked as a Research Assistant at the [GEM-Lab](https://gemlab.usc.edu/), supported by [ARPA-E](https://arpa-e.energy.gov/), where I simulated coupled geomechanical-chemical processes for hydrogen recovery and reservoir integrity. Using COMSOL, I analyzed porosity, stress, and permeability changes during serpentinization—experience directly applicable to field-based geohazard analysis.
+</span>
 
 In parallel, I developed a [MATLAB-based simulation framework](https://github.com/Miawang32/GEOLOGIC_CO2_STORAGE) for CO₂ storage in porous media, integrating risk assessment, history matching, and injection optimization. My engineering background also includes national-level CAD design awards, renewable energy project coordination, and field experience across water treatment, QA, and gas processing with companies like [KEM Energy](http://www.kemgroups.com/), [Champion Asia](http://www.championasia-tech.com/), and [SINOPEC](http://www.sinopecgroup.com/group/en/).
 
@@ -54,5 +54,3 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 - Carbon capture and storage (CCUS)
 - Simulation-aided engineering design
 - Global energy transition & sustainability
-
-</span>
