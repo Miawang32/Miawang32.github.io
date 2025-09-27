@@ -1,15 +1,3 @@
-<style>
-
-  html { font-size: 14px; }         
-  .page__content h1, .page__title { font-size: 1.6rem; margin-bottom: .5rem; }
-  .page__content h2 { font-size: 1.3rem; margin-top: .75rem; margin-bottom: .4rem; }
-  .page__content h3 { font-size: 1.15rem; margin-top: .6rem; margin-bottom: .35rem; }
-  .page__content h4 { font-size: 1rem; margin-top: .5rem; margin-bottom: .3rem; }
-
-  .page__content p,
-  .page__content li { font-size: .95rem; line-height: 1.45; }
-  .page__content ul, .page__content ol { margin-top: .25rem; margin-bottom: .6rem; }
-</style>
 ---
 permalink: /
 title: "About Me"
