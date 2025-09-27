@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingshuo Wang, a graduate student at [USC](https://www.usc.edu/), double majoring in Petroleum Engineering and Engineering Management. My background in chemical engineering and experience in subsurface modeling, clean energy research, and oilfield analysis allow me to bridge technical expertise with practical applications. Currently involved in an ARPA-E project at GEM-Lab, focusing on hydrogen recovery and reservoir simulation using COMSOL. Previously interned at KEM Power, KEM Energy, and SINOPEC, with hands-on experience in project management and chemical analysis. Proficient in COMSOL, MATLAB, Python, and CAD.
+I am a dual master's student in Petroleum Engineering and Engineering Management, with a strong foundation in chemical engineering and hands-on experience in energy systems modeling, geomechanics, and project operations. My research at USC’s GEM-Lab, supported by ARPA-E, focuses on simulating coupled geomechanical-chemical processes for hydrogen recovery and reservoir integrity—using COMSOL to analyze porosity, stress, and permeability changes during serpentinization.
+
+In parallel, I’ve developed a MATLAB-based simulation framework for CO₂ storage in porous media, integrating risk assessment, history matching, and injection optimization. My engineering background also includes national-level CAD design awards, renewable energy project coordination, and field experience across water treatment, QA, and gas processing with companies like KEM Energy, Champion Asia, and SINOPEC.
+
+With a blend of technical, analytical, and management skills, I’m passionate about applying multidisciplinary knowledge to real-world challenges in clean energy, carbon storage, and sustainable infrastructure.
 
 ---
 
