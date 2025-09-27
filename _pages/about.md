@@ -13,73 +13,87 @@ In parallel, I developed a [MATLAB-based simulation framework](https://github.co
 
 With a blend of technical, analytical, and management skills, I am passionate about applying multidisciplinary knowledge to real-world challenges in clean energy, carbon storage, and sustainable infrastructure.
 
----
+<h4>Education</h4>
 
-### Education
-
-**University of Southern California** *(May 2025)*  
-- M.S. Petroleum Engineering  
-- M.S. Engineering Management  
+<p><strong>University of Southern California</strong> <em>(May 2025)</em><br>
+- M.S. Petroleum Engineering<br>
+- M.S. Engineering Management<br>
 - Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity)
+</p>
 
-**Hunan University of Science and Technology** *(Jul 2022)*  
+<p><strong>Hunan University of Science and Technology</strong> <em>(Jul 2022)</em><br>
 - B.S. Chemical Engineering
+</p>
 
 ---
 
-### Research & Projects
+<h4>Research & Projects</h4>
 
-**Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)*  
-- Developed a 2D COMSOL porous media model to simulate olivine serpentinization and assess H₂ generation kinetics.  
-- Investigated multiscale coupling in transport–mechanics–reaction systems under reservoir conditions.  
-- Analyzed porosity, stress, and permeability evolution for reservoir integrity assessment.  
+<p><strong>Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)</strong> <em>(Sep–Dec 2024)</em><br>
+- Developed a 2D COMSOL porous media model to simulate olivine serpentinization and assess H₂ generation kinetics.<br>
+- Investigated multiscale coupling in transport–mechanics–reaction systems under reservoir conditions.<br>
+- Analyzed porosity, stress, and permeability evolution for reservoir integrity assessment.
+</p>
 
-**CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)*  
-- Built a MATLAB-based simulator for geologic CO₂ storage with risk-informed decision analysis.  
-- Integrated history matching and injection optimization; reduced predicted leakage risk to <0.1%.  
+<p><strong>CO₂ Injection Simulation and Optimization — USC</strong> <em>(Jan–May 2023)</em><br>
+- Built a MATLAB-based simulator for geologic CO₂ storage with risk-informed decision analysis.<br>
+- Integrated history matching and injection optimization; reduced predicted leakage risk to &lt;0.1%.
+</p>
 
-**Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)*  
-- Implemented an LSTM pipeline with stacked recurrent layers and automated hyperparameter tuning.  
-- Achieved 0.06 RMSE on held-out data.  
+<p><strong>Deep Learning for Stock Price Prediction — USC</strong> <em>(Mar–May 2024)</em><br>
+- Implemented an LSTM pipeline with stacked recurrent layers and automated hyperparameter tuning.<br>
+- Achieved 0.06 RMSE on held-out data.
+</p>
 
-**National ChemE Design Competition — CAD Engineer** *(Apr–Aug 2020)*  
-- Designed AutoCAD workshop layouts for a C5 alkane processing plant.  
-- Won National Second Prize for feasibility and design quality.  
-
----
-
-### Professional Experience
-
-**KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)*  
-- Led solar project delivery for Sungrow, coordinating 50+ stakeholders across design, logistics, and compliance.  
-- Bridged technical and business teams to ensure on-time, regulation-aligned execution.  
-
-**KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)*  
-- Performed oilfield asset evaluations for 1,000+ wells and supported technology strategy and bid economics.  
-
-**Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)*  
-- Designed wastewater treatment solutions, reducing OPEX by ~¥50,000/month.  
-
-**Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)*  
-- Managed detergent production line operations and QA/QC processes.  
-
-**SINOPEC — Chemical Engineering Intern** *(Oct–Dec 2019 · China)*  
-- Operated caustic soda membrane workshop; performed live process monitoring.  
+<p><strong>National ChemE Design Competition — CAD Engineer</strong> <em>(Apr–Aug 2020)</em><br>
+- Designed AutoCAD workshop layouts for a C5 alkane processing plant.<br>
+- Won National Second Prize for feasibility and design quality.
+</p>
 
 ---
 
-### Skills
+<h4>Professional Experience</h4>
 
-- **Modeling & Simulation:** COMSOL, MATLAB, Aspen Plus, Geolog, Python, R  
-- **Engineering Tools:** AutoCAD, QA/QC, Data Analysis, MS Office  
-- **Soft Skills:** Project management, technical writing, cross-functional collaboration  
-- **Languages:** English, Mandarin  
+<p><strong>KEM Power LLC — Solar Project Manager</strong> <em>(Jun 2024–May 2025 · Houston, TX)</em><br>
+- Led solar project delivery for Sungrow, coordinating 50+ stakeholders across design, logistics, and compliance.<br>
+- Bridged technical and business teams to ensure on-time, regulation-aligned execution.
+</p>
+
+<p><strong>KEM Power LLC — Oil & Gas Sales Intern</strong> <em>(Jun–Sep 2023 · Houston, TX)</em><br>
+- Performed oilfield asset evaluations for 1,000+ wells and supported technology strategy and bid economics.
+</p>
+
+<p><strong>Champion Asia Group — Chemical Engineering Intern</strong> <em>(Jun–Aug 2021 · China)</em><br>
+- Designed wastewater treatment solutions, reducing OPEX by ~¥50,000/month.
+</p>
+
+<p><strong>Hunan Lichen Industry — Chemical Engineering Intern</strong> <em>(Oct–Dec 2020 · China)</em><br>
+- Managed detergent production line operations and QA/QC processes.
+</p>
+
+<p><strong>SINOPEC — Chemical Engineering Intern</strong> <em>(Oct–Dec 2019 · China)</em><br>
+- Operated caustic soda membrane workshop; performed live process monitoring.
+</p>
 
 ---
 
-### Interests
+<h4>Skills</h4>
 
-- Clean energy and hydrogen technologies  
-- Carbon capture and storage (CCUS)  
-- Subsurface flow modeling and geomechanics  
-- Simulation-aided engineering design; sustainability  
+<p>
+- <strong>Modeling & Simulation:</strong> COMSOL, MATLAB, Aspen Plus, Geolog, Python, R<br>
+- <strong>Engineering Tools:</strong> AutoCAD, QA/QC, Data Analysis, MS Office<br>
+- <strong>Soft Skills:</strong> Project management, technical writing, cross-functional collaboration<br>
+- <strong>Languages:</strong> English, Mandarin
+</p>
+
+---
+
+<h4>Interests</h4>
+
+<p>
+- Clean energy and hydrogen technologies<br>
+- Carbon capture and storage (CCUS)<br>
+- Simulation-aided engineering design<br>
+- Global energy transition and sustainability
+</p>
+
