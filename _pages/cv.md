@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 For a detailed overview of my academic and professional background, please see  
-👉 [**Mingshuo Wang's Resume (PDF)**](../assets/resume_Mingshuo_W.pdf)
+👉 [**Mingshuo Wang's Resume (PDF)**](../assets/resume_MingshuoWang.pdf)
 
