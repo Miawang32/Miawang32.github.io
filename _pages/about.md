@@ -99,7 +99,7 @@ Conducted multiscale characterization, transport, and mechanics for enhanced H�
 </span>
 - <span style="font-size:16px">
 **Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)*
-Developed an **end-to-end LSTM stock prediction pipeline** with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE.[Project Site](https://github.com/Miawang32/GEOLOGIC_CO2_STORAGE)  
+Developed an **end-to-end LSTM stock prediction pipeline** with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE. ([Project Site])(https://github.com/Miawang32/GEOLOGIC_CO2_STORAGE)  
 </span>
 - <span style="font-size:16px">
 **Simulation and Optimization of CO₂ Injection in Porous Media — Research Assistant** *(Jan–May 2023)*  
