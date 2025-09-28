@@ -24,62 +24,84 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 <span style="font-size:17px">
 **Education**  
 </span>
-
--
-<span style="font-size:16px">
+- <span style="font-size:16px">
 **University of Southern California** *(May 2025)* — M.S. Petroleum Engineering; M.S. Engineering Management; Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity).  
 </span>
--
-<span style="font-size:16px">
+- <span style="font-size:16px">
 **Hunan University of Science and Technology** *(Jul 2022)* — B.S. Chemical Engineering.  
 </span>
 
-
 ---
 
-<span style="font-size:16px">
+<span style="font-size:17px">
 **Research & Projects**  
 </span>
-- **Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)* — Built 2D COMSOL porous-media model for olivine serpentinization and H₂ kinetics; studied coupled transport–mechanics–reaction; analyzed porosity/stress/permeability evolution.  
-- **CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)* — MATLAB simulator for geologic CO₂ storage with risk-informed decisions; integrated history matching & injection optimization; predicted leakage risk <0.1%.  
-- **Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)* — LSTM pipeline with stacked RNNs & auto HPO; RMSE 0.06 on held-out data.  
-- **National ChemE Design Competition — CAD Engineer** *(Apr–Aug 2020)* — AutoCAD layouts for C5 alkane plant; National Second Prize.  
-
+- <span style="font-size:16px">
+**Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)* — Built 2D COMSOL porous-media model for olivine serpentinization and H₂ kinetics; studied coupled transport–mechanics–reaction; analyzed porosity/stress/permeability evolution.  
+</span>
+- <span style="font-size:16px">
+**CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)* — MATLAB simulator for geologic CO₂ storage with risk-informed decisions; integrated history matching & injection optimization; predicted leakage risk <0.1%.  
+</span>
+- <span style="font-size:16px">
+**Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)* — LSTM pipeline with stacked RNNs & auto HPO; RMSE 0.06 on held-out data.  
+</span>
+- <span style="font-size:16px">
+**National ChemE Design Competition — CAD Engineer** *(Apr–Aug 2020)* — AutoCAD layouts for C5 alkane plant; National Second Prize.  
 </span>
 
 ---
 
-<span style="font-size:16px">
-
+<span style="font-size:17px">
 **Professional Experience**  
-- **KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)* — Led Sungrow project delivery; coordinated 50+ stakeholders; bridged tech & business for on-time, regulation-aligned execution.  
-- **KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)* — Evaluated 1,000+ wells; supported tech strategy and bid economics.  
-- **Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)* — Designed wastewater treatment; cut OPEX by ~¥50,000/month.  
-- **Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)* — Ran detergent production & QA/QC.  
-- **SINOPEC — Chemical Engineering Intern** *(Oct–Dec 2019 · China)* — Operated caustic soda membrane workshop; live process monitoring.  
-
+</span>
+- <span style="font-size:16px">
+**KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)* — Led Sungrow project delivery; coordinated 50+ stakeholders; bridged tech & business for on-time, regulation-aligned execution.  
+</span>
+- <span style="font-size:16px">
+**KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)* — Evaluated 1,000+ wells; supported tech strategy and bid economics.  
+</span>
+- <span style="font-size:16px">
+**Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)* — Designed wastewater treatment; cut OPEX by ~¥50,000/month.  
+</span>
+- <span style="font-size:16px">
+**Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)* — Ran detergent production & QA/QC.  
+</span>
+- <span style="font-size:16px">
+**SINOPEC — Chemical Engineering Intern** *(Oct–Dec 2019 · China)* — Operated caustic soda membrane workshop; live process monitoring.  
 </span>
 
 ---
 
-<span style="font-size:16px">
-
+<span style="font-size:17px">
 **Skills**  
-- Modeling & Simulation: COMSOL, MATLAB, Aspen Plus, Geolog, Python, R  
-- Engineering Tools: AutoCAD, QA/QC, Data Analysis, MS Office  
-- Soft Skills: Project management, technical writing, cross-functional collaboration  
-- Languages: English, Mandarin  
-
+</span>
+- <span style="font-size:16px">
+Modeling & Simulation: COMSOL, MATLAB, Aspen Plus, Geolog, Python, R  
+</span>
+- <span style="font-size:16px">
+Engineering Tools: AutoCAD, QA/QC, Data Analysis, MS Office  
+</span>
+- <span style="font-size:16px">
+Soft Skills: Project management, technical writing, cross-functional collaboration  
+</span>
+- <span style="font-size:16px">
+Languages: English, Mandarin  
 </span>
 
 ---
 
-<span style="font-size:16px">
-
+<span style="font-size:17px">
 **Interests**  
-- Clean energy & hydrogen technologies  
-- Carbon capture and storage (CCUS)  
-- Simulation-aided engineering design  
-- Global energy transition & sustainability  
-
+</span>
+- <span style="font-size:16px">
+Clean energy & hydrogen technologies  
+</span>
+- <span style="font-size:16px">
+Carbon capture and storage (CCUS)  
+</span>
+- <span style="font-size:16px">
+Simulation-aided engineering design  
+</span>
+- <span style="font-size:16px">
+Global energy transition & sustainability  
 </span>
