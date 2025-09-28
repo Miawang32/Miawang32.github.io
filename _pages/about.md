@@ -21,7 +21,7 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 </span>
 
 
-<span style="font-size:16px">
+<span style="font-size:17px">
 **Education**  
 </span>
 
