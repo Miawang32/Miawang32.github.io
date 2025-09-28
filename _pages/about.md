@@ -46,23 +46,19 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 </span>
 - <span style="font-size:16px">
 **KEM Power LLC, KEM Energy Inc. — Solar Project Engineer Intern** *(Jun–Sep 2024 · Houston, TX)*  
-Tracked Sungrow utility-scale solar project milestones by updating Gantt charts, reviewing weekly contractor reports, and flagging schedule risks to senior engineers.  
-Prepared logistics plans for panel and inverter shipments (truck routing, warehouse coordination, and delivery sequencing) and presented rollout updates during client meetings.  
+Tracked Sungrow utility-scale solar project milestones by updating Gantt charts, reviewing weekly contractor reports, and flagging schedule risks to senior engineers. Prepared logistics plans for panel and inverter shipments (truck routing, warehouse coordination, and delivery sequencing) and presented rollout updates during client meetings.  
 </span>
 - <span style="font-size:16px">
 **KEM Power LLC, KEM Energy Inc. — Oil & Gas Engineer Intern** *(Jun–Sep 2023 · Houston, TX)*  
-Assessed gas measurement and control upgrades, contributing to proposals for upstream projects.  
-Estimated costs and schedules for oilfield bids, improving proposal accuracy and contract competitiveness.  
+Assessed gas measurement and control upgrades, contributing to proposals for upstream projects. Estimated costs and schedules for oilfield bids, improving proposal accuracy and contract competitiveness.  
 </span>
 - <span style="font-size:16px">
 **Champion Asia Group — Chemical Engineering Intern (Water Treatment)** *(Jun–Aug 2021 · Ganzhou, China)*  
-Ran Aspen Plus simulations to optimize chemical dosing ratios in wastewater treatment, validating results with lab tests.  
-Identified pump/pipe bottlenecks in the plant layout and proposed equipment upgrades that improved daily treatment capacity.  
+Ran Aspen Plus simulations to optimize chemical dosing ratios in wastewater treatment, validating results with lab tests. Identified pump/pipe bottlenecks in the plant layout and proposed equipment upgrades that improved daily treatment capacity.  
 </span>
 - <span style="font-size:16px">
 **Hunan Lichen Industry Co., Ltd. — Chemical Engineering Intern (Quality Assurance)** *(Oct–Dec 2020 · Changsha, China)*  
-Operated surfactant production systems including spray drying and thermal aging units, ensuring consistent output quality and adherence to process parameters.  
-Conducted QA/QC testing and data analysis for production processes, ensuring compliance with safety and quality standards.  
+Operated surfactant production systems including spray drying and thermal aging units, ensuring consistent output quality and adherence to process parameters. Conducted QA/QC testing and data analysis for production processes, ensuring compliance with safety and quality standards.  
 </span>
 
 ---
@@ -82,15 +78,13 @@ R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE ATCE 2025]
 </span>
 - <span style="font-size:16px">
 **USC GEM-Lab (ARPA-E Funded) — Research Assistant** *(Sep–Dec 2024)*  
-Conducted multiscale characterization, transport, and mechanics for enhanced H₂ recovery and reservoir management.  
-Simulated coupled geomechanical-chemical processes using COMSOL to model serpentinization reactions, tracking permeability changes under varying stress/porosity—experience directly applicable to field-based geohazard analysis.  
+Conducted multiscale characterization, transport, and mechanics for enhanced H₂ recovery and reservoir management. Simulated coupled geomechanical-chemical processes using **COMSOL** to model **serpentinization reactions**, tracking permeability changes under varying stress/porosity—experience directly applicable to field-based geohazard analysis.  
 </span>
 - <span style="font-size:16px">
-**Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)*  
-Developed an end-to-end LSTM stock prediction pipeline with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE.  
+**Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)* 
+Developed an **end-to-end LSTM stock prediction pipeline** with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE.  
 </span>
 - <span style="font-size:16px">
 **Simulation and Optimization of CO₂ Injection in Porous Media — Research Assistant** *(Jan–May 2023)*  
-Developed and implemented a MATLAB-based framework for geologic CO₂ storage, incorporating uncertainty-aware risk assessment, history-matching calibration, and optimization of injection strategies.  
-Evaluated and mitigated leakage and fracturing risks through data-driven adjustments to well placement and injection rates, ensuring efficient long-term CO₂ sequestration (leakage rate <0.1%).  
+Developed and implemented a **MATLAB-based** framework for **geologic CO₂ storage**, incorporating uncertainty-aware risk assessment, history-matching calibration, and optimization of injection strategies. Evaluated and mitigated leakage and fracturing risks through data-driven adjustments to well placement and injection rates, ensuring efficient long-term CO₂ sequestration (leakage rate <0.1%).  
 </span>
