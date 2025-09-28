@@ -68,7 +68,7 @@ Operated surfactant production systems including spray drying and thermal aging 
 </span>
 - <span style="font-size:16px">
 *Exploring Modern Feature Extraction Techniques for Improved Offshore Fault Detection in Oil and Gas Operations*  
-R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE ATCE 2025]  
+R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE [ATCE 2025](https://www.atce.org/)]  
 </span>
 
 ---
