@@ -29,7 +29,6 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 <span style="font-size:16px">
 **University of Southern California** *(May 2025)* — M.S. Petroleum Engineering; M.S. Engineering Management; Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity).  
 </span>
-
 -
 <span style="font-size:16px">
 **Hunan University of Science and Technology** *(Jul 2022)* — B.S. Chemical Engineering.  
