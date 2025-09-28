@@ -34,74 +34,63 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 ---
 
 <span style="font-size:17px">
-**Research & Projects**  
-</span>
-- <span style="font-size:16px">
-**Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)* — Built 2D COMSOL porous-media model for olivine serpentinization and H₂ kinetics; studied coupled transport–mechanics–reaction; analyzed porosity/stress/permeability evolution.  
-</span>
-- <span style="font-size:16px">
-**CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)* — MATLAB simulator for geologic CO₂ storage with risk-informed decisions; integrated history matching & injection optimization; predicted leakage risk <0.1%.  
-</span>
-- <span style="font-size:16px">
-**Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)* — LSTM pipeline with stacked RNNs & auto HPO; RMSE 0.06 on held-out data.  
-</span>
-- <span style="font-size:16px">
-**National ChemE Design Competition — CAD Engineer** *(Apr–Aug 2020)* — AutoCAD layouts for C5 alkane plant; National Second Prize.  
-</span>
-
----
-
-<span style="font-size:17px">
-**Professional Experience**  
-</span>
-- <span style="font-size:16px">
-**KEM Power LLC — Solar Project Manager** *(Jun 2024–May 2025 · Houston, TX)* — Led Sungrow project delivery; coordinated 50+ stakeholders; bridged tech & business for on-time, regulation-aligned execution.  
-</span>
-- <span style="font-size:16px">
-**KEM Power LLC — Oil & Gas Sales Intern** *(Jun–Sep 2023 · Houston, TX)* — Evaluated 1,000+ wells; supported tech strategy and bid economics.  
-</span>
-- <span style="font-size:16px">
-**Champion Asia Group — Chemical Engineering Intern** *(Jun–Aug 2021 · China)* — Designed wastewater treatment; cut OPEX by ~¥50,000/month.  
-</span>
-- <span style="font-size:16px">
-**Hunan Lichen Industry — Chemical Engineering Intern** *(Oct–Dec 2020 · China)* — Ran detergent production & QA/QC.  
-</span>
-- <span style="font-size:16px">
-**SINOPEC — Chemical Engineering Intern** *(Oct–Dec 2019 · China)* — Operated caustic soda membrane workshop; live process monitoring.  
-</span>
-
----
-
-<span style="font-size:17px">
 **Skills**  
 </span>
-- <span style="font-size:16px">
-Modeling & Simulation: COMSOL, MATLAB, Aspen Plus, Geolog, Python, R  
+- <span style="font-size:16px">**Software:** Python, AutoCAD, ArcGIS, COMSOL, MATLAB, R Studio, SQL, Power BI, Aspen Plus</span>  
+- <span style="font-size:16px">**Technical Skills:** Risk assessment, inventory control, logistics planning, safety inspections, KPI monitoring, sustainability tracking. Experienced in compliance, cross-functional initiatives, data visualization, statistical analysis, probabilistic modeling, database management.</span>  
+
+---
+
+<span style="font-size:17px">
+**Work Experience**  
 </span>
 - <span style="font-size:16px">
-Engineering Tools: AutoCAD, QA/QC, Data Analysis, MS Office  
+**KEM Power LLC, KEM Energy Inc. — Solar Project Engineer Intern** *(Jun–Sep 2024 · Houston, TX)*  
+Tracked Sungrow utility-scale solar project milestones by updating Gantt charts, reviewing weekly contractor reports, and flagging schedule risks to senior engineers.  
+Prepared logistics plans for panel and inverter shipments (truck routing, warehouse coordination, and delivery sequencing) and presented rollout updates during client meetings.  
 </span>
 - <span style="font-size:16px">
-Soft Skills: Project management, technical writing, cross-functional collaboration  
+**KEM Power LLC, KEM Energy Inc. — Oil & Gas Engineer Intern** *(Jun–Sep 2023 · Houston, TX)*  
+Assessed gas measurement and control upgrades, contributing to proposals for upstream projects.  
+Estimated costs and schedules for oilfield bids, improving proposal accuracy and contract competitiveness.  
 </span>
 - <span style="font-size:16px">
-Languages: English, Mandarin  
+**Champion Asia Group — Chemical Engineering Intern (Water Treatment)** *(Jun–Aug 2021 · Ganzhou, China)*  
+Ran Aspen Plus simulations to optimize chemical dosing ratios in wastewater treatment, validating results with lab tests.  
+Identified pump/pipe bottlenecks in the plant layout and proposed equipment upgrades that improved daily treatment capacity.  
+</span>
+- <span style="font-size:16px">
+**Hunan Lichen Industry Co., Ltd. — Chemical Engineering Intern (Quality Assurance)** *(Oct–Dec 2020 · Changsha, China)*  
+Operated surfactant production systems including spray drying and thermal aging units, ensuring consistent output quality and adherence to process parameters.  
+Conducted QA/QC testing and data analysis for production processes, ensuring compliance with safety and quality standards.  
 </span>
 
 ---
 
 <span style="font-size:17px">
-**Interests**  
+**Publication**  
 </span>
 - <span style="font-size:16px">
-Clean energy & hydrogen technologies  
+*Exploring Modern Feature Extraction Techniques for Improved Offshore Fault Detection in Oil and Gas Operations*  
+R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE ATCE 2025]  
+</span>
+
+---
+
+<span style="font-size:17px">
+**Project Experience**  
 </span>
 - <span style="font-size:16px">
-Carbon capture and storage (CCUS)  
+**USC GEM-Lab (ARPA-E Funded) — Research Assistant** *(Sep–Dec 2024)*  
+Conducted multiscale characterization, transport, and mechanics for enhanced H₂ recovery and reservoir management.  
+Simulated coupled geomechanical-chemical processes using COMSOL to model serpentinization reactions, tracking permeability changes under varying stress/porosity—experience directly applicable to field-based geohazard analysis.  
 </span>
 - <span style="font-size:16px">
-Simulation-aided engineering design  
+**Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)*  
+Developed an end-to-end LSTM stock prediction pipeline with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE.  
 </span>
 - <span style="font-size:16px">
-Global energy transition & sustainability  
+**Simulation and Optimization of CO₂ Injection in Porous Media — Research Assistant** *(Jan–May 2023)*  
+Developed and implemented a MATLAB-based framework for geologic CO₂ storage, incorporating uncertainty-aware risk assessment, history-matching calibration, and optimization of injection strategies.  
+Evaluated and mitigated leakage and fracturing risks through data-driven adjustments to well placement and injection rates, ensuring efficient long-term CO₂ sequestration (leakage rate <0.1%).  
 </span>
