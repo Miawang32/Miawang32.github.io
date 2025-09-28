@@ -77,11 +77,11 @@ R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE ATCE 2025]
 **Project Experience**  
 </span>
 - <span style="font-size:16px">
-**USC GEM-Lab (ARPA-E Funded) — Research Assistant** *(Sep–Dec 2024)*  
+**USC [GEM-Lab](https://gemlab.usc.edu/) (ARPA-E Funded) — Research Assistant** *(Sep–Dec 2024)*  
 Conducted multiscale characterization, transport, and mechanics for enhanced H₂ recovery and reservoir management. Simulated coupled geomechanical-chemical processes using **COMSOL** to model **serpentinization reactions**, tracking permeability changes under varying stress/porosity—experience directly applicable to field-based geohazard analysis.  
 </span>
 - <span style="font-size:16px">
-**Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)* 
+**Deep Learning for Stock Price Prediction Using LSTM — Research Assistant** *(Mar–May 2024)* [Project Site](https://github.com/Miawang32/GEOLOGIC_CO2_STORAGE)
 Developed an **end-to-end LSTM stock prediction pipeline** with stacked recurrent layers and automated hyperparameter tuning, achieving 0.06 RMSE.  
 </span>
 - <span style="font-size:16px">
