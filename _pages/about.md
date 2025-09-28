@@ -22,18 +22,21 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 
 <span style="font-size:16px">
-
 **Education**  
-- **University of Southern California** *(May 2025)* — M.S. Petroleum Engineering; M.S. Engineering Management; Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity).  
-- **Hunan University of Science and Technology** *(Jul 2022)* — B.S. Chemical Engineering.  
-
 </span>
+<span style="font-size:16px">
+- **University of Southern California** *(May 2025)* — M.S. Petroleum Engineering; M.S. Engineering Management; Research Assistant at GEM-Lab (ARPA-E: hydrogen recovery & reservoir integrity).  
+</span>
+<span style="font-size:16px">
+- **Hunan University of Science and Technology** *(Jul 2022)* — B.S. Chemical Engineering.  
+</span>
+
 
 ---
 
 <span style="font-size:16px">
-
 **Research & Projects**  
+</span>
 - **Graduate Research Assistant — GEM-Lab @ USC (ARPA-E Funded)** *(Sep–Dec 2024)* — Built 2D COMSOL porous-media model for olivine serpentinization and H₂ kinetics; studied coupled transport–mechanics–reaction; analyzed porosity/stress/permeability evolution.  
 - **CO₂ Injection Simulation and Optimization — USC** *(Jan–May 2023)* — MATLAB simulator for geologic CO₂ storage with risk-informed decisions; integrated history matching & injection optimization; predicted leakage risk <0.1%.  
 - **Deep Learning for Stock Price Prediction — USC** *(Mar–May 2024)* — LSTM pipeline with stacked RNNs & auto HPO; RMSE 0.06 on held-out data.  
