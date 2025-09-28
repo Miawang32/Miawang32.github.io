@@ -46,7 +46,7 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 - **<span style="color: #1E90FF;">[2023-10-07]</span>** One first-authored paper: [<span style="color: #2E8B57;">**BRAINTEASER: Lateral Thinking Puzzles for Large Language Models**</span>](https://arxiv.org/abs/2310.05057) has been accepted to [<span style="color: #8A2BE2;">**EMNLP 2023**</span>](https://2023.emnlp.org/)!
 - **<span style="color: #1E90FF;">[2023-07-15]</span>** One first-authored paper: [<span style="color: #2E8B57;">**Transferring Procedural Knowledge across Commonsense Tasks**</span>](https://arxiv.org/abs/2304.13867) _(oral+poster)_ has been accepted to [<span style="color: #8A2BE2;">**ECAI 2023**</span>](https://ecai2023.eu/ECAI2023)!
 - **<span style="color: #1E90FF;">[2023-06-16]</span>** One first-authored paper: [<span style="color: #2E8B57;">**SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense**</span>](https://arxiv.org/abs/2404.16068) has been accepted to [<span style="color: #8A2BE2;">**SemEval 2024@NAACL**</span>](https://semeval.github.io/SemEval2024/cft)!
-- **<span style="color: #1E90FF;">[2023-01-14]</span>** One paper: [<span style="color: #2E8B57;">**TrafPS: A Shapley-based Visual Analytics Approach to Interpret Traffic**</span>](https://arxiv.org/abs/2404.16068) has been accepted to [<span style="color: #8A2BE2;">**CVMJ**</span>](https://www.editorialmanager.com/cvmj/default.aspx)!
+- **<span style="color: #1E90FF;">[2023-05-22]</span>** Attending [<span style="color: #8A2BE2;">**SPE western regional meeting**</span>](https://onepetro.org/SPEWRM/23WRM/conference/23WRM)!
 
 ---
 
