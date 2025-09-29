@@ -33,9 +33,12 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 
 ## <span style="color: #4682B4;font-size:17px">News</span>
-<span style="font-size:16px">
-- **<span style="color: #1E90FF;">[2025-09-14]</span>** Our Paper <span style="color: #FF4500;">**Exploring Modern Feature Extraction Techniques for Improved Offshore Fault Detection in Oil and Gas Operations**</span> is accepted at [<span style="color: #8A2BE2;">**SPE ATCE 2025**</span>](https://www.atce.org/). See you at Houston!
-</span>
+- <span style="font-size:16px; color:#1E90FF;">[2025-09-14]</span> 
+  <span style="font-size:16px;">Our Paper</span> 
+  <span style="font-size:16px; color:#FF4500;"><b>Exploring Modern Feature Extraction Techniques for Improved Offshore Fault Detection in Oil and Gas Operations</b></span> 
+  <span style="font-size:16px;">is accepted at</span> 
+  <a href="https://www.atce.org/"><span style="font-size:16px; color:#8A2BE2;"><b>SPE ATCE 2025</b></span></a>
+  <span style="font-size:16px;">. See you at Houston!</span>
 - **<span style="color: #1E90FF;">[2025-02-25]</span>** Attended [<span style="color: #8A2BE2;">**Intersolar & Energy Storage North America**</span>](https://www.iesna.com/flagship/) as [<span style="color: #2E8B57;">**SPE secretary**</span>]([https://higherlogicdownload.s3.amazonaws.com/SPE/47b8184c-7e3f-4b2b-8fa9-01533b4c4539/UploadedFiles/apOlE4zxS6ykwGQj41RN_LASPEOct2023Newsletter.pdf]) of USC!
 - **<span style="color: #1E90FF;">[2023-09-27]</span>** Attended [<span style="color: #8A2BE2;">**The Intersolar & Energy Storage North America Texas conference**</span>](https://www.iesna.com/flagship/) as [<span style="color: #2E8B57;">**SPE secretary**</span>]([https://higherlogicdownload.s3.amazonaws.com/SPE/47b8184c-7e3f-4b2b-8fa9-01533b4c4539/UploadedFiles/apOlE4zxS6ykwGQj41RN_LASPEOct2023Newsletter.pdf]) of USC!
 - **<span style="color: #1E90FF;">[2024-09-27]</span>** Attended [<span style="color: #8A2BE2;">**CLIMATE WEEK NYC**</span>](https://www.climateweeknyc.org/news/its-time-highlights-climate-week-nyc)，where I presented my research on <span style="color: #FF4500;">**serpentinization reactions modeling (based on COMSOL)**</span> at the [<span style="color: #2E8B57;">**GEN Lab**</span>]([https://gemlab.usc.edu/])!
