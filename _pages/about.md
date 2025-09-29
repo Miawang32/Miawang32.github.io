@@ -21,7 +21,7 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 </span>
 
 
-<span style="font-size:17px">
+<span style="color: #4682B4;font-size:17px">
 **Education**  
 </span>
 - <span style="font-size:16px">
@@ -55,7 +55,7 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 ---
 
-<span style="font-size:17px">
+<span style="color: #4682B4;font-size:17px">
 **Work Experience**  
 </span>
 - <span style="font-size:16px">
@@ -77,17 +77,17 @@ Operated surfactant production systems including spray drying and thermal aging 
 
 ---
 
-<span style="font-size:17px">
+<span style="color: #4682B4;font-size:17px">
 **Publication**  
 </span>
 - <span style="font-size:16px">
 *Exploring Modern Feature Extraction Techniques for Improved Offshore Fault Detection in Oil and Gas Operations*  
-R. A. Wibawa, M. Wang, B. Jha — [Submitting to SPE [ATCE 2025](https://www.atce.org/)]  
+R. A. Wibawa, M. Wang, B. Jha — Submitting to [SPE ATCE 2025](https://www.atce.org/) 
 </span>
 
 ---
 
-<span style="font-size:17px">
+<span style="color: #4682B4;font-size:17px">
 **Project Experience**  
 </span>
 - <span style="font-size:16px">
