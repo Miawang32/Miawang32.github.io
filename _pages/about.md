@@ -45,7 +45,7 @@ With a blend of technical, analytical, and management skills, I am passionate ab
 
 ---
 
-<span style="font-size:17px">
+<span style="color: #4682B4;font-size:17px">
 **Skills**  
 </span>
 - <span style="font-size:16px">**Software:** Python, AutoCAD, ArcGIS, COMSOL, MATLAB, R Studio, SQL, Power BI, Aspen Plus</span>  
